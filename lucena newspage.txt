@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diocese of Lucena Christmas Party</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #343a40;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .photo-booth {
+            text-align: center;
+            margin-top: 1rem;
+        }
+        .photo-booth img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #343a40;
+            color: #fff;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Diocese of Lucena Christmas Party 2024</h1>
+    </header>
+    <main>
+        <section class="section">
+            <h2>Festive Decorations</h2>
+            <p>
+                In preparation for their Christmas party, the class officers created beautiful hand-made decorations and balloons to adorn the classroom. They also crafted a delightful photo booth with cute headbands and printed hand-held signs, making every corner of the room radiate festive warmth.
+            </p>
+            <div class="photo-booth">
+                <img src="image.png" alt="Christmas photo booth">
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Exciting Activities</h2>
+            <p>
+                The celebration included engaging games such as "In, Out, Left, Right," where participants moved in sync, causing bursts of laughter. Another highlight was guessing classmates' baby pictures, bringing nostalgia and fun to the event.
+            </p>
+            <p>
+                A unique game, "Eh, ikaw?", tested creativity and quick thinking, with duos mimicking actions and describing them in Tagalog. Winners received loot bags filled with candies and snacks, generously prepared by students.
+            </p>
+        </section>
+
+        <section class="section">
+            <h2>Gift-Giving and Performances</h2>
+            <p>
+                During the party, students exchanged gifts, with heartfelt performances adding to the festive mood. Even those without gifts felt the warmth of the Christmas spirit as classmates sang beautifully and celebrated together.
+            </p>
+        </section>
+
+        <section class="section">
+            <h2>Shared Meals and Prayers</h2>
+            <p>
+                The celebration concluded with a heartfelt prayer, followed by a communal meal. Students ate, laughed, and strengthened their bonds, leaving no room for solitude and reinforcing a sense of community.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Diocese of Lucena. All rights reserved.</p>
+    </footer>
+</body>
+</html>
